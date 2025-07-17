@@ -40,6 +40,6 @@
 <div align="center">
     <h3>Troubleshooting Network Access</h3>
     <img src="permission.png" alt="Network Troubleshooting" height="80%" width="80%">
-    <p>Troubleshooting network paths and permission errors to maintain collaboration.</p>
+    <p>Troubleshooting network paths and permission.</p>
 </div>
 
